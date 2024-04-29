@@ -16,3 +16,4 @@ class Situazione:
 
     def __str__(self):
         return f"[{self.localita} - {self.data}] Umidità = {self.umidita}"
+
